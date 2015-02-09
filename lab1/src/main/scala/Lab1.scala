@@ -129,34 +129,97 @@ object Lab1 extends jsy.util.JsyApplication {
   sealed abstract class SearchTree
   case object Empty extends SearchTree
   case class Node(l: SearchTree, d: Int, r: SearchTree) extends SearchTree
-  
+
   def repOk(t: SearchTree): Boolean = {
     def check(t: SearchTree, min: Int, max: Int): Boolean = t match {
       case Empty => true
-      case Node(l, d, r) => throw new UnsupportedOperationException
+      case Node(l, d, r) => {
+        if (d >= max || d < min) {
+          false
+        } else {
+            (check(l, min, d) && check (r, d, max))
+        }
+      }
     }
     check(t, Int.MinValue, Int.MaxValue)
   }
-  
-  def insert(t: SearchTree, n: Int): SearchTree = throw new UnsupportedOperationException
-  
-  def deleteMin(t: SearchTree): (SearchTree, Int) = {
+
+  def insert(t: SearchTree, n: Int): SearchTree = {
+    t match {
+      case Empty =>
+        Node(Empty, n, Empty)
+      case Node(l, d, r) =>
+        if (n < d) {
+          Node(insert(l, n), d, r)
+        } else {
+            Node(l, d, insert(r, n))
+        }
+    }
+  }
+def deleteMin(t: SearchTree): (SearchTree, Int) = {
     require(t != Empty)
     (t: @unchecked) match {
       case Node(Empty, d, r) => (r, d)
       case Node(l, d, r) =>
         val (l1, m) = deleteMin(l)
-        throw new UnsupportedOperationException
+        (new Node(l1, d, r), m)
     }
   }
- 
-  def delete(t: SearchTree, n: Int): SearchTree = throw new UnsupportedOperationException
+
+  def delete(t: SearchTree, n: Int): SearchTree = {
+    t match {
+      case Node(l, d, r) if (n < d) => {
+        l match {
+          case Empty =>
+            t
+          case _ =>
+            new Node(delete(l, n), d, r)
+        }
+      }
+      case Node(l, d, r) if (n > d) => {
+        r match {
+          case Empty =>
+            t
+          case _ =>
+            new Node(l, d, delete(r, n))
+        }
+      }
+      case Node(l, n, r) => {
+        r match {
+          case Empty =>
+            l
+          case _ =>
+            val (r1, m) = deleteMin(r)
+            new Node(l, m, r1)
+        }
+      }
+    }
+  }
   
-  /* JavaScripty */
-  
+ /* JavaScripty */
+
   def eval(e: Expr): Double = e match {
-    case N(n) => throw new UnsupportedOperationException
-    case _ => throw new UnsupportedOperationException
+    case N(n) => { n }
+    case Unary(Neg, e) => {
+      0 - eval(e)
+    }
+    case Binary(op, b1, b2) => {
+      op match {
+        case Plus => {
+          eval(b1) + eval(b2)
+        }
+        case Minus => {
+          eval(b1) - eval(b2)
+        }
+        case Times => {
+          eval(b1) * eval(b2)
+        }
+        case Div => {
+          require (b2 != 0)
+          eval(b1) / eval(b2)
+        }
+      }
+    }
   }
   
  // Interface to run your interpreter from a string.  This is convenient
