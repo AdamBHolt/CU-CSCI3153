@@ -1,0 +1,47 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala, C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala, C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala, C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 441a37b, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_31\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_31\jre\classes;C:\Users\kelst_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes;C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\lib\liblab1.jar;C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\lib\scalatest_2.10-2.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.922608456 s[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, sqrtN, unapply, anonOption, curried, wait, copy$default$2, $asInstanceOf, insert, productArity, plus, equals, asInstanceOf, repOk, synchronized, isJsy, deleteMin, $isInstanceOf, Node, tupled, sqrtErr, canEqual, main, productPrefix, notifyAll, readResolve, debug, flagOptions, isInstanceOf, badplus, eval, <init>, sqrtStep, sqrt, apply, Empty, l, ==, xor, clone, testPlus2, delete, SearchTree, copy$default$3, copy, Lab1, toString, !=, getClass, repeat, copy$default$1, r, abs, ne, testPlus1, eq, productIterator, ##, finalize, productElement, hashCode, processFile, d.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, curried, wait, Unary, copy$default$2, $asInstanceOf, n, compose, e1, N, productArity, equals, uop, Bop, asInstanceOf, pretty, Expr, pos, synchronized, $isInstanceOf, isValue, andThen, tupled, canEqual, productPrefix, notifyAll, readResolve, Plus, isInstanceOf, Minus, Neg, <init>, Uop, apply, ==, clone, Binary, bop, setPos, copy$default$3, copy, toString, !=, Times, getClass, copy$default$1, ast, e2, ne, eq, Div, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala: Set(n, e1, uop, asInstanceOf, Expr, Plus, isInstanceOf, Minus, Neg, <init>, apply, ==, bop, toString, !=, Times, ast, e2, ne, eq, Div)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

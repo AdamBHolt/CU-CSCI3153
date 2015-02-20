@@ -1,0 +1,97 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3ad9f2b9, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_31\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_31\jre\classes;C:\Users\kelst_000\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:1: not found: value jsy[0m
+[0m[[31merror[0m] [0mobject Lab1 extends jsy.util.JsyApplication {[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:2: not found: value jsy[0m
+[0m[[31merror[0m] [0m  import jsy.lab1.ast._[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:3: not found: value jsy[0m
+[0m[[31merror[0m] [0m  import jsy.lab1.Parser[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:201: not found: type Expr[0m
+[0m[[31merror[0m] [0m  def eval(e: Expr): Double = e match {[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:202: not found: value N[0m
+[0m[[31merror[0m] [0m    case N(n) => { n }[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:202: not found: value n[0m
+[0m[[31merror[0m] [0m    case N(n) => { n }[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:203: not found: value Unary[0m
+[0m[[31merror[0m] [0m    case Unary(Neg, e) => {[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:206: not found: value Binary[0m
+[0m[[31merror[0m] [0m    case Binary(op, b1, b2) => {[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:207: not found: value op[0m
+[0m[[31merror[0m] [0m      op match {[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:208: not found: value Plus[0m
+[0m[[31merror[0m] [0m        case Plus => {[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:209: not found: value b1[0m
+[0m[[31merror[0m] [0m          eval(b1) + eval(b2)[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:211: not found: value Minus[0m
+[0m[[31merror[0m] [0m        case Minus => {[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:212: not found: value b1[0m
+[0m[[31merror[0m] [0m          eval(b1) - eval(b2)[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:214: not found: value Times[0m
+[0m[[31merror[0m] [0m        case Times => {[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:215: not found: value b1[0m
+[0m[[31merror[0m] [0m          eval(b1) * eval(b2)[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:217: not found: value Div[0m
+[0m[[31merror[0m] [0m        case Div => {[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:218: not found: value b2[0m
+[0m[[31merror[0m] [0m          require (b2 != 0)[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:219: not found: value b1[0m
+[0m[[31merror[0m] [0m          eval(b1) / eval(b2)[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:227: not found: value Parser[0m
+[0m[[31merror[0m] [0m def eval(s: String): Double = eval(Parser.parse(s))[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:234: not found: value debug[0m
+[0m[[31merror[0m] [0m    if (debug) { println("Parsing ...") }[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:236: not found: value Parser[0m
+[0m[[31merror[0m] [0m    val expr = Parser.parseFile(file)[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:238: not found: value debug[0m
+[0m[[31merror[0m] [0m    if (debug) {[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mC:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala:243: not found: value debug[0m
+[0m[[31merror[0m] [0m    if (debug) { println("Evaluating ...") }[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0m23 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m

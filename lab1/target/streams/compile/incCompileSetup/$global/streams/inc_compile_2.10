@@ -1,0 +1,321 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Binary$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Binary.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Bop.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Div$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Expr.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Minus$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$N$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$N.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Neg$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Plus$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Times$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Unary$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Unary.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Uop.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$Empty$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$Node$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$Node.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$SearchTree.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1.class
+binary dependencies:
+5 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> C:\Users\kelst_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\lib\liblab1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Binary
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Binary$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Bop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Div$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Expr
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Minus$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$N
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$N$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Neg$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Plus$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Times$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Unary
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Unary$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy.lab1.ast$Uop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Lab1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Lab1$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Lab1$Empty$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Lab1$Node
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Lab1$Node$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Lab1$SearchTree
+used names:
+172 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> &&
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> <init>
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> ==
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> AbstractFunction1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> AbstractFunction2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> AbstractFunction3
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> AnyRef
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Binary
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Boolean
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Bop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Div
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Double
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Expr
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Minus
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> N
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Neg
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> None
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Plus
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Positional
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Predef
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Product
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> ScalaRunTime
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Serializable
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Statics
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> String
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Times
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Unary
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> Uop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> _hashCode
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> _toString
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> asInstanceOf
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> ast
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> bop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> doubleHash
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> e
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> e1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> e2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> eq
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> finalizeHash
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> input
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> isInstanceOf
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> isValue
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> jsy
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> lab1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> mix
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> n
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> parsing
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> require
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> runtime
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> scala
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> toString
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> typedProductIterator
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> uop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> util
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> v
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> ||
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> !=
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> &&
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> *
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> +
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> -
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> /
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> <
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> <init>
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> ==
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> >
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> >=
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> AbstractFunction3
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> AnyRef
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Boolean
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Div
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Double
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Empty
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Expr
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> File
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Function2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Int
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> JsyApplication
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Lab1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Math
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Minus
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Neg
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Node
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> None
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Parser
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Plus
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Predef
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Product
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> ScalaRunTime
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> SearchTree
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Serializable
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Statics
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> String
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Times
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Tuple2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> Unit
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> _1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> _2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> _root_
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> _toString
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> a
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> abs
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> anyHash
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> apply
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> asInstanceOf
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> assert
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> ast
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> b
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> b1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> b2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> bop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> c
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> check
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> d
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> debug
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> delete
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> deleteMin
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> e
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> e1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> e2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> epsilon
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> eq
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> eval
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> expr
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> file
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> finalizeHash
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> insert
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> io
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> isInstanceOf
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> java
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> jsy
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> l
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> l1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> lab1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> lang
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> m
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> max
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> min
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> mix
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> n
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> ne
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> op
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> parse
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> parseFile
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> plus
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> pow
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> println
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> r
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> r1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> repeat
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> require
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> runtime
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> s
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> scala
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> sqrtErr
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> sqrtN
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> sqrtStep
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> t
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> testPlus1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> toString
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> typedProductIterator
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> unary_!
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> unary_-
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> unchecked
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> uop
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> util
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> v
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> x
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> x0
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> xn
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> y
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> ||
+product stamps:
+22 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$.class -> lastModified(1423697595264)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Binary$.class -> lastModified(1423697595272)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Binary.class -> lastModified(1423697595285)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Bop.class -> lastModified(1423697595289)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Div$.class -> lastModified(1423697595298)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Expr.class -> lastModified(1423697595304)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Minus$.class -> lastModified(1423697595310)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$N$.class -> lastModified(1423697595326)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$N.class -> lastModified(1423697595322)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Neg$.class -> lastModified(1423697595334)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Plus$.class -> lastModified(1423697595342)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Times$.class -> lastModified(1423697595350)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Unary$.class -> lastModified(1423697595367)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Unary.class -> lastModified(1423697595361)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast$Uop.class -> lastModified(1423697595370)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\jsy\lab1\ast.class -> lastModified(1423697595257)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$.class -> lastModified(1423697595189)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$Empty$.class -> lastModified(1423697595202)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$Node$.class -> lastModified(1423697595239)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$Node.class -> lastModified(1423697595227)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1$SearchTree.class -> lastModified(1423697595244)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\target\scala-2.10\classes\Lab1.class -> lastModified(1423697595112)
+source stamps:
+2 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> hash(9e9d2c04f688c984c9841f5026aed08952f66f2d)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> hash(2b8f92130634a0cc2a3ed87158d340d46b583035)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar -> lastModified(1422989396873)
+C:\Users\kelst_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar -> lastModified(1380275091000)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\lib\liblab1.jar -> lastModified(1389301646000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar -> java.lang.Object
+C:\Users\kelst_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.3.jar -> scala.runtime.AbstractFunction2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\lib\liblab1.jar -> jsy.util.JsyApplication
+internal apis:
+2 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB//OJbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKk3tRV0AAZub3RpZnlzcQB+AAzF9oxMdAAHdW5hcHBseXNxAH4ADMFDmsx0AAdjdXJyaWVkc3EAfgAMBMKBc3QABHdhaXRzcQB+AAyEasxwdAAFVW5hcnlzcQB+AAwZ463QdAAOY29weSRkZWZhdWx0JDJzcQB+AAxNZghgdAANJGFzSW5zdGFuY2VPZnNxAH4ADMlgu710AAFuc3EAfgAMnU6ItXQAB2NvbXBvc2VzcQB+AAxlhh5FdAACZTFzcQB+AAxy//LTdAABTnNxAH4ADJUzwOx0AAxwcm9kdWN0QXJpdHlzcQB+AAxF/us2dAAGZXF1YWxzc3EAfgAMufaei3QAA3VvcHNxAH4ADI6nRBN0AANCb3BzcQB+AAzbI50adAAMYXNJbnN0YW5jZU9mc3EAfgAMQOs0sXQABnByZXR0eXNxAH4ADFEyB290AARFeHByc3EAfgAM6C+hiHQAA3Bvc3NxAH4ADJ4nomp0AAxzeW5jaHJvbml6ZWRzcQB+AAxbU8LqdAANJGlzSW5zdGFuY2VPZnNxAH4ADJbquy10AAdpc1ZhbHVlc3EAfgAMSXitEXQAB2FuZFRoZW5zcQB+AAxd/6bydAAGdHVwbGVkc3EAfgAMuA9m6nQACGNhbkVxdWFsc3EAfgAMYfd6r3QADXByb2R1Y3RQcmVmaXhzcQB+AAzrCv3PdAAJbm90aWZ5QWxsc3EAfgAMSTKIhnQAC3JlYWRSZXNvbHZlc3EAfgAMY+D8k3QABFBsdXNzcQB+AAz2Fj/TdAAMaXNJbnN0YW5jZU9mc3EAfgAMMZ0GbnQABU1pbnVzc3EAfgAMPx/6CHQAA05lZ3NxAH4ADK6jB9p0AAY8aW5pdD5zcQB+AAy+lGL9dAADVW9wc3EAfgAM675OcnQABWFwcGx5c3EAfgAMbBy2VXQAAj09c3EAfgAMrh012nQABWNsb25lc3EAfgAM5FLnlHQABkJpbmFyeXNxAH4ADICb5Q50AANib3BzcQB+AAzlAxFQdAAGc2V0UG9zc3EAfgAMIZo2SHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMl/QcdXQABGNvcHlzcQB+AAwiTQptdAAIdG9TdHJpbmdzcQB+AAwQrxkHdAACIT1zcQB+AAxtQEzgdAAFVGltZXNzcQB+AAzkf67WdAAIZ2V0Q2xhc3NzcQB+AAziugavdAAOY29weSRkZWZhdWx0JDFzcQB+AAw7o9cjdAADYXN0c3EAfgAMo/T7u3QAAmUyc3EAfgAM1aRkCHQAAm5lc3EAfgAMYUu4ZnQAAmVxc3EAfgAMBPdwrHQAA0RpdnNxAH4ADNZ6RWJ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzNVf6JdAACIyNzcQB+AAzSdQr/dAAIZmluYWxpemVzcQB+AAxe+OL/dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwkbKZzdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAManN5LmxhYjEuYXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aonhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AoQBwc3EAfgCmc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIlMAAlpbmhlcml0ZWRxAH4AiUwAB3BhcmVudHNxAH4AiXhxAH4AqnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDGdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDHc3EAfgC6dAADQW55c3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnQABXNjYWxhcQB+AM11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhqc3kubGFiMXNxAH4A13QAA2pzeXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3r9NM91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHQzpcVXNlcnNca2Vsc3RfMDAwXERvY3VtZW50c1xDVS1DU0NJMzE1M1xsYWIxXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSenSwE9ojJhMmEH1AmrtCJUvZvLQ==
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDSXD85AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFM6O450AAZub3RpZnlzcQB+AAwU9N1jdAAFc3FydE5zcQB+AAzw0dVedAAHdW5hcHBseXNxAH4ADKiUMDF0AAphbm9uT3B0aW9uc3EAfgAMTxHbdnQAB2N1cnJpZWRzcQB+AAwzh9SbdAAEd2FpdHNxAH4ADAxNlqN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADHJwn3V0AA0kYXNJbnN0YW5jZU9mc3EAfgAMns2FonQABmluc2VydHNxAH4ADCZzRuB0AAxwcm9kdWN0QXJpdHlzcQB+AAwOZW4QdAAEcGx1c3NxAH4ADO4cf/10AAZlcXVhbHNzcQB+AAzBr2KYdAAMYXNJbnN0YW5jZU9mc3EAfgAMlaPl53QABXJlcE9rc3EAfgAMKT679XQADHN5bmNocm9uaXplZHNxAH4ADO2oLOl0AAVpc0pzeXNxAH4ADOXjAF10AAlkZWxldGVNaW5zcQB+AAwMqRKxdAANJGlzSW5zdGFuY2VPZnNxAH4ADFFQTH50AAROb2Rlc3EAfgAMSeioPnQABnR1cGxlZHNxAH4ADI9nOLl0AAdzcXJ0RXJyc3EAfgAM8tEXp3QACGNhbkVxdWFsc3EAfgAMmFKuC3QABG1haW5zcQB+AAzwCfgLdAANcHJvZHVjdFByZWZpeHNxAH4ADFyT/6x0AAlub3RpZnlBbGxzcQB+AAy0uDNddAALcmVhZFJlc29sdmVzcQB+AAx7AeUVdAAFZGVidWdzcQB+AAxNM2k8dAALZmxhZ09wdGlvbnNzcQB+AAwdXGbwdAAMaXNJbnN0YW5jZU9mc3EAfgAMUPbNUHQAB2JhZHBsdXNzcQB+AAwkORQ9dAAEZXZhbHNxAH4ADAIs3UF0AAY8aW5pdD5zcQB+AAwVHRi4dAAIc3FydFN0ZXBzcQB+AAzaypfJdAAEc3FydHNxAH4ADEer2B50AAVhcHBseXNxAH4ADLrJ3C50AAVFbXB0eXNxAH4ADEujtZx0AAFsc3EAfgAMkrhGVHQAAj09c3EAfgAMA95TJ3QAA3hvcnNxAH4ADLNbOYd0AAVjbG9uZXNxAH4ADOifNhZ0AAl0ZXN0UGx1czJzcQB+AAx9WVJLdAAGZGVsZXRlc3EAfgAMEtOYanQAClNlYXJjaFRyZWVzcQB+AAzLZswvdAAOY29weSRkZWZhdWx0JDNzcQB+AAxF7g0LdAAEY29weXNxAH4ADLJaLYR0AARMYWIxc3EAfgAM4hIM1HQACHRvU3RyaW5nc3EAfgAMgRGX6XQAAiE9c3EAfgAMzq92S3QACGdldENsYXNzc3EAfgAMQ9wd+HQABnJlcGVhdHNxAH4ADLA5Ck90AA5jb3B5JGRlZmF1bHQkMXNxAH4ADOI/XbR0AAFyc3EAfgAM7u2C5XQAA2Fic3NxAH4ADE2rud10AAJuZXNxAH4ADLh+VBl0AAl0ZXN0UGx1czFzcQB+AAwqO/tsdAACZXFzcQB+AAzNSn0ddAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM+N3R3HQAAiMjc3EAfgAMIrrYAnQACGZpbmFsaXplc3EAfgAMt1D2w3QADnByb2R1Y3RFbGVtZW50c3EAfgAM8bqEAXQACGhhc2hDb2Rlc3EAfgAMNruLSnQAC3Byb2Nlc3NGaWxlc3EAfgAMI6q71XQAAWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCteHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCsAHBzcQB+ALFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgC1c3EAfgCsAHBzcQB+ALF1cQB+AJAAAAAAc3EAfgCsAHBzcQB+ALF1cQB+AJAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AJZxAH4An3VxAH4AoAAAAABzcQB+AKIAcQB+ADt1cQB+AKQAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AtHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgDCeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCndAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDJWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgC0c3EAfgDIdAAFQXJyYXlxAH4AznVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDIdAAGU3RyaW5nc3EAfgDMc3EAfgDPdXEAfgDSAAAAA3NxAH4A1HQABGphdmFzcQB+ANR0AARsYW5ncQB+ANlzcQB+AKwAcHNxAH4AsXVxAH4A7QAAAANzcQB+AMh0AA5Kc3lBcHBsaWNhdGlvbnNxAH4AzHNxAH4Az3VxAH4A0gAAAANzcQB+ANR0AANqc3lzcQB+ANR0AAR1dGlscQB+ANlzcQB+AMh0AAZPYmplY3RxAH4A8XNxAH4AyHQAA0FueXEAfgDOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUt6/TTPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAR0M6XFVzZXJzXGtlbHN0XzAwMFxEb2N1bWVudHNcQ1UtQ1NDSTMxNTNcbGFiMVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUK4+SEwY0oMwqPthxWNNA1GtYMDU=
+external apis:
+0 items
+source infos:
+2 items
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\jsy\lab1\ast.scala -> 
+AAAAAAAAAAA=
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab1\src\main\scala\Lab1.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS3r9NM91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGtlbHN0XzAwMFxEb2N1bWVudHNcQ1UtQ1NDSTMxNTNcbGFiMVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
