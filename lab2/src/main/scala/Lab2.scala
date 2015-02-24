@@ -62,25 +62,69 @@ object Lab2 extends jsy.util.JsyApplication {
   def toNumber(v: Expr): Double = {
     require(isValue(v))
     (v: @unchecked) match {
-      case N(n) => n
-      case _ => throw new UnsupportedOperationException
+      case N(n) => {
+        return n;
+      }
+      case B(b) => {
+        if (b) {
+          return 1.0;
+        } else {
+          return 0.0;
+        }
+      }
+      case S(s) => {
+        try {
+          return s.toDouble;
+        } catch {
+          case _ : NumberFormatException => return Double.NaN;
+        }
+      }
+      case Undefined => {
+        return Double.NaN;
+      }
     }
   }
   
-  def toBoolean(v: Expr): Boolean = {
+   def toBoolean(v: Expr): Boolean = {
     require(isValue(v))
     (v: @unchecked) match {
-      case B(b) => b
-      case _ => throw new UnsupportedOperationException
+      case B(b) => {
+        return b;
+      }
+      case N(n) => {
+        if (n.isNaN() || n == 0) {
+          return false;
+        }
+        return true;
+      }
+      case S(s) => {
+        if (s.equals("")) {
+          return false
+        } else {
+          return true;
+        }
+      }
+      case Undefined => {
+        return false;
+      }
     }
   }
   
   def toStr(v: Expr): String = {
     require(isValue(v))
     (v: @unchecked) match {
-      case S(s) => s
-      case Undefined => "undefined"
-      case _ => throw new UnsupportedOperationException
+      case S(s) => {
+        return s;
+      }
+      case N(n) => {
+        return n.toString;
+      }
+      case B(b) => {
+        return b.toString;
+      }
+      case Undefined => {
+        return "undefined";
+      }
     }
   }
   
