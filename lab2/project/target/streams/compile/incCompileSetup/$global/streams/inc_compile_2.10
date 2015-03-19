@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes
+output dir -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes
 compile options:
 0 items
 javac options:
@@ -20,22 +20,22 @@ name hashing:
 0 -> true
 products:
 11 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$1.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$2.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$3.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$4.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$5.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$1.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$2.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$3.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$4.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$.class
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$1.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$2.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$3.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$4.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$5.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$1.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$2.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$3.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$4.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$.class
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build.class
 binary dependencies:
 3 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.7.jar
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> C:\Users\kelst_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.7.jar
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.7.jar
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> C:\Users\kelst_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.7.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -54,49 +54,49 @@ inheritance external dependencies:
 0 items
 class names:
 11 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$1
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$2
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$3
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$4
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$5
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$root$1
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$root$2
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$root$3
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build$$anonfun$root$4
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$3
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$4
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$grader$5
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$root$1
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$root$2
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$root$3
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build$$anonfun$root$4
 used names:
 14 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> <init>
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Build
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Keys
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Lab1Build
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> Project
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> apply
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> classpathDependency
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> dependsOn
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> file
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> grader
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> package
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> projectToRef
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> root
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> sbt
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> <init>
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Build
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Keys
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Lab1Build
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> Project
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> apply
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> classpathDependency
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> dependsOn
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> file
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> grader
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> package
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> projectToRef
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> root
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> sbt
 product stamps:
 11 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$1.class -> lastModified(1425247184008)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$2.class -> lastModified(1425247184015)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$3.class -> lastModified(1425247184019)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$4.class -> lastModified(1425247184025)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$5.class -> lastModified(1425247184030)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$1.class -> lastModified(1425247184037)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$2.class -> lastModified(1425247184044)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$3.class -> lastModified(1425247184053)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$4.class -> lastModified(1425247184063)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$.class -> lastModified(1425247183996)
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build.class -> lastModified(1425247183945)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$1.class -> lastModified(1425253002028)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$2.class -> lastModified(1425253002036)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$3.class -> lastModified(1425253002039)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$4.class -> lastModified(1425253002047)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$grader$5.class -> lastModified(1425253002051)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$1.class -> lastModified(1425253002060)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$2.class -> lastModified(1425253002068)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$3.class -> lastModified(1425253002075)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$$anonfun$root$4.class -> lastModified(1425253002080)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build$.class -> lastModified(1425253002013)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\scala-2.10\sbt-0.13\classes\Lab1Build.class -> lastModified(1425253001952)
 source stamps:
 1 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> hash(0c576a661d9edd18d0b3ce637fe73fe7f87eccb0)
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> hash(0c576a661d9edd18d0b3ce637fe73fe7f87eccb0)
 binary stamps:
 3 items
 C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar -> lastModified(1422989396873)
@@ -109,14 +109,15 @@ C:\Users\kelst_000\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.7.jar -> sbt.Bu
 C:\Users\kelst_000\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.7.jar -> sbt.package$
 internal apis:
 1 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBpFIYuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKGwqeF0AAZub3RpZnlzcQB+AAySXr5vdAAEd2FpdHNxAH4ADDtvgC10AA0kYXNJbnN0YW5jZU9mc3EAfgAMtyJbY3QADGJ1aWxkTG9hZGVyc3NxAH4ADG2ckll0AARyb290c3EAfgAMFFB2/nQABmVxdWFsc3NxAH4ADGOlakZ0AAxhc0luc3RhbmNlT2ZzcQB+AAxAwfLXdAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMNkLcfHQADHN5bmNocm9uaXplZHNxAH4ADIOMHBF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMOcC7GHQABmdyYWRlcnNxAH4ADBfhH7l0AAlub3RpZnlBbGxzcQB+AAz7ynDgdAALcm9vdFByb2plY3RzcQB+AAw4bt0EdAAJTGFiMUJ1aWxkc3EAfgAMf5KvOHQADGlzSW5zdGFuY2VPZnNxAH4ADF7qHQd0AAI9PXNxAH4ADMn/Dl90AAVjbG9uZXNxAH4ADKWxjM50AAh0b1N0cmluZ3NxAH4ADOPa1/d0AAIhPXNxAH4ADFLeaCh0AAhwcm9qZWN0c3NxAH4ADBRMS9Z0AAhnZXRDbGFzc3NxAH4ADBEau3t0AAJuZXNxAH4ADIo+qJx0AAJlcXNxAH4ADHYKa7V0AAhzZXR0aW5nc3NxAH4ADJKljw50AAIjI3NxAH4ADJ4x5G90AAhmaW5hbGl6ZXNxAH4ADKzySE50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGV4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGQAcHNxAH4AaXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG1zcQB+AGQAcHNxAH4AaXVxAH4ASAAAAABzcQB+AGQAcHNxAH4AaXVxAH4ASAAAAABzcQB+AGQAcHNxAH4AaXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AinNxAH4AfXQABk9iamVjdHNxAH4AgXNxAH4AhHVxAH4AhwAAAANzcQB+AIl0AARqYXZhc3EAfgCJdAAEbGFuZ3EAfgCOc3EAfgB9dAADQW55c3EAfgCBc3EAfgCEdXEAfgCHAAAAAnNxAH4AiXQABXNjYWxhcQB+AI51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS9daEZx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABUQzpcVXNlcnNca2Vsc3RfMDAwXERvY3VtZW50c1xFY2xpcHNlXGxhYjJccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUDFdqZh2e3RjQs85jf+c/5/h+zLA=
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBpFIYuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKGwqeF0AAZub3RpZnlzcQB+AAySXr5vdAAEd2FpdHNxAH4ADDtvgC10AA0kYXNJbnN0YW5jZU9mc3EAfgAMtyJbY3QADGJ1aWxkTG9hZGVyc3NxAH4ADG2ckll0AARyb290c3EAfgAMFFB2/nQABmVxdWFsc3NxAH4ADGOlakZ0AAxhc0luc3RhbmNlT2ZzcQB+AAxAwfLXdAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMNkLcfHQADHN5bmNocm9uaXplZHNxAH4ADIOMHBF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMOcC7GHQABmdyYWRlcnNxAH4ADBfhH7l0AAlub3RpZnlBbGxzcQB+AAz7ynDgdAALcm9vdFByb2plY3RzcQB+AAw4bt0EdAAJTGFiMUJ1aWxkc3EAfgAMf5KvOHQADGlzSW5zdGFuY2VPZnNxAH4ADF7qHQd0AAI9PXNxAH4ADMn/Dl90AAVjbG9uZXNxAH4ADKWxjM50AAh0b1N0cmluZ3NxAH4ADOPa1/d0AAIhPXNxAH4ADFLeaCh0AAhwcm9qZWN0c3NxAH4ADBRMS9Z0AAhnZXRDbGFzc3NxAH4ADBEau3t0AAJuZXNxAH4ADIo+qJx0AAJlcXNxAH4ADHYKa7V0AAhzZXR0aW5nc3NxAH4ADJKljw50AAIjI3NxAH4ADJ4x5G90AAhmaW5hbGl6ZXNxAH4ADKzySE50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGV4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGQAcHNxAH4AaXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG1zcQB+AGQAcHNxAH4AaXVxAH4ASAAAAABzcQB+AGQAcHNxAH4AaXVxAH4ASAAAAABzcQB+AGQAcHNxAH4AaXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AinNxAH4AfXQABk9iamVjdHNxAH4AgXNxAH4AhHVxAH4AhwAAAANzcQB+AIl0AARqYXZhc3EAfgCJdAAEbGFuZ3EAfgCOc3EAfgB9dAADQW55c3EAfgCBc3EAfgCEdXEAfgCHAAAAAnNxAH4AiXQABXNjYWxhcQB+AI51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS9ey3Dl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABYQzpcVXNlcnNca2Vsc3RfMDAwXERvY3VtZW50c1xDVS1DU0NJMzE1M1xsYWIyXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAxXamYdnt0Y0LPOY3/nP+f4fsyw
 external apis:
 0 items
 source infos:
 1 items
-C:\Users\kelst_000\Documents\Eclipse\lab2\project\Build.scala -> 
+C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\Build.scala -> 
 AAAAAAAAAAA=
 compilations:
-1 items
+2 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS9daEZx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVEM6XFVzZXJzXGtlbHN0XzAwMFxEb2N1bWVudHNcRWNsaXBzZVxsYWIyXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS9ey3Dl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWEM6XFVzZXJzXGtlbHN0XzAwMFxEb2N1bWVudHNcQ1UtQ1NDSTMxNTNcbGFiMlxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEv

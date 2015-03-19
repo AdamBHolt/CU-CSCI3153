@@ -1,0 +1,1 @@
+const a = "2"; const x = 10/a + 5*a; const y = (x > 10) !== "fal" + "se" === true; y !== 0

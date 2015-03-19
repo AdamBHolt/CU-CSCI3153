@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/kelst_000/Documents/Eclipse/lab2/project/}lab2-build...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/kelst_000/Documents/CU-CSCI3153/lab2/project/}lab2-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#lab2-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -16,7 +16,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#lab2-build;0.1-SNAPSHOT [provided][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies default#lab2-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4aad43a7[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c97a44f[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
@@ -1818,19 +1818,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.7!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2127ms :: artifacts dl 87ms[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT compile produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT runtime produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT test produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT provided produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT optional produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT compile-internal produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT test-internal produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT plugin produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT sources produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT docs produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT pom produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT scala-tool produced in C:\Users\kelst_000\Documents\Eclipse\lab2\project\target\resolution-cache\reports\default-lab2-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2127ms resolve - 87ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1858ms :: artifacts dl 67ms[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT compile produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT runtime produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT test produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT provided produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT optional produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT compile-internal produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT test-internal produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT plugin produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT sources produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT docs produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT pom produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#lab2-build;0.1-SNAPSHOT scala-tool produced in C:\Users\kelst_000\Documents\CU-CSCI3153\lab2\project\target\resolution-cache\reports\default-lab2-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (1858ms resolve - 67ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

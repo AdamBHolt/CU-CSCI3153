@@ -254,3 +254,12 @@ class UnarySpec extends FlatSpec {
     assert(e4 === B(true))
   }
 }
+
+class InterviewSpec extends FlatSpec {
+   val e1 = If(Binary(Gt,N(6),N(1)),N(5),N(-5))
+   val e2 = Binary(Plus,Var("x"),N(5))
+   val e3 = ConstDecl("x", e1, e2)
+   assert(eval(e3)==N(10))
+  
+}
+}
