@@ -3,10 +3,10 @@ object Lab3 extends jsy.util.JsyApplication {
   
   /*
    * CSCI 3155: Lab 3 
-   * <Your Name>
+   * Adam Holt
    * 
-   * Partner: <Your Partner's Name>
-   * Collaborators: <Any Collaborators>
+   * Partner: Neil Nistler
+   * Collaborators: None
    */
 
   /*
@@ -133,9 +133,19 @@ object Lab3 extends jsy.util.JsyApplication {
       case Binary(Minus, e1, e2) => N(eToN(e1) - eToN(e2))
       case Binary(Times, e1, e2) => N(eToN(e1) * eToN(e2))
       case Binary(Div, e1, e2) => N(eToN(e1) / eToN(e2))
-      
-      case Binary(bop @ (Eq | Ne), e1, e2) => throw new UnsupportedOperationException
+            
       case Binary(bop @ (Lt|Le|Gt|Ge), e1, e2) => B(inequalityVal(bop, eToVal(e1), eToVal(e2)))
+      case Binary(bop @ (Eq | Ne), e1, e2) => {
+        (eToVal(e1), eToVal(e2)) match{
+          case (Function(_,_,_), _) => throw new DynamicTypeError(e)
+          case (_, Function(_,_,_)) => throw new DynamicTypeError(e)
+          case (_, _) => bop match {
+      	  	case Eq => B(eToVal(e1) == eToVal(e2))
+      	  	case Ne => B(eToVal(e1) != eToVal(e2))
+      	  	case _ => throw new UnsupportedOperationException
+          }
+        }
+      }
       
       case Binary(And, e1, e2) => 
         val v1 = eToVal(e1)
@@ -150,6 +160,11 @@ object Lab3 extends jsy.util.JsyApplication {
       
       case ConstDecl(x, e1, e2) => eval(extend(env, x, eToVal(e1)), e2)
       
+      case Call(e1, e2) => eToVal(e1) match{
+        case Function(Some(p), x, e3) => eval(extend(extend(env, p, eToVal(e1)), x, eToVal(e2)), e3)
+        case Function(None, x, e3) => eval(extend(env, x, eToVal(e2)), e3)
+        case _ => throw new DynamicTypeError(e)
+      }
       case _ => throw new UnsupportedOperationException
     }
   }
@@ -166,6 +181,17 @@ object Lab3 extends jsy.util.JsyApplication {
     e match {
       case N(_) | B(_) | Undefined | S(_) => e
       case Print(e1) => Print(subst(e1))
+      
+      case Binary(bop,e1,e2) => Binary(bop,subst(e1),subst(e2))
+      case Unary(uop,e1) => Unary(uop,subst(e1))
+      
+      case ConstDecl(y, e1, e2) => if (y == x) ConstDecl(y, subst(e1), e2) else ConstDecl(y, subst(e1), subst(e2))
+      case If(e1, e2, e3) => If(subst(e1), subst(e2), subst(e3))
+      case Function(None, y, e1) => if (y == x) e else Function(None, y, subst(e1))
+      case Function(Some(p), y, e1) => if((p == x) || (y == x)) e else Function(Some(p), y, subst(e1))
+      case Call(e1, e2) => Call(subst(e1),subst(e2))
+      case Var(y) => if(y==x) v else e
+
       case _ => throw new UnsupportedOperationException
     }
   }
@@ -176,11 +202,95 @@ object Lab3 extends jsy.util.JsyApplication {
       case Print(v1) if isValue(v1) => println(pretty(v1)); Undefined
       
         // ****** Your cases here
+      case Binary(bop @ (Eq|Ne), Function(_,_,_), _) => throw new DynamicTypeError(e)
+      case Binary(bop @ (Eq|Ne), _, Function(_,_,_)) => throw new DynamicTypeError(e)
       
+      case Binary(bop @ (And | Or | Seq), v1, e2) if isValue(v1) => bop match {
+        /* 
+         * Performs logical && using truth table logic.
+         * If v1 true return v2; if v1 false return v1. 
+         */
+        case And => if(toBoolean(v1))
+                        e2 else v1
+        /* 
+         * Performs logical || using truth table logic.
+         * If v1 true return v1; if v1 false return v2. 
+         */        				   
+        case Or => if(toBoolean(v1))
+                        v1 else e2
+         /* Return v2 (last element in sequence). */
+        case Seq => e2
+        case _ => throw new UnsupportedOperationException
+      }
+      case Binary(bop, v1, v2) if isValue(v1) && isValue(v2) => bop match {
+        case Plus => (v1, v2) match{
+          /* Convert num or bool to string and then concatenate. */
+          case (S(_), _) => S(toStr(v1)+toStr(v2))
+          case (_, S(_)) => S(toStr(v1)+toStr(v2))
+
+          case (_, _) => N(toNumber(v1)+toNumber(v2))
+        } 
+        
+        case Minus => N(toNumber(v1)-toNumber(v2))
+        case Times => N(toNumber(v1)*toNumber(v2))
+        case Div => N(toNumber(v1)/toNumber(v2))
+        case Eq => B(v1 == v2)
+        case Ne => B(v1 != v2)
+        case Lt => (v1, v2) match{
+          case (S(_), S(_)) =>  B(toStr(v1) < toStr(v2)) /* String compare */
+          case (_, _) =>  B(toNumber(v1) < toNumber(v2))
+        }  
+        case Le => (v1, v2) match{
+          case (S(_), S(_)) =>  B(toStr(v1) <= toStr(v2)) /* String compare */
+          case (_, _) =>  B(toNumber(v1) <= toNumber(v2))
+        }  
+        case Gt => (v1, v2) match{
+          case (S(_), S(_)) =>  B(toStr(v1) > toStr(v2)) /* String compare */
+          case (_, _) =>  B(toNumber(v1) > toNumber(v2))
+        }  
+        case Ge => (v1, v2) match{
+          case (S(_), S(_)) =>  B(toStr(v1) >= toStr(v2)) /* String compare */
+          case (_, _) =>  B(toNumber(v1) >= toNumber(v2))
+        }   
+        
+        case _ => throw new UnsupportedOperationException
+      }
+      
+      case Unary(uop, v1) if isValue(v1) => uop match{
+        case Neg => N(-toNumber(v1))
+        case Not => B(!toBoolean(v1))
+        case _ =>  throw new UnsupportedOperationException
+        } 
+      
+      /* If e1 is true return e2 else return e3. */
+      case If(v1, e2, e3) if isValue(v1) => {	if(toBoolean(v1))
+                                    e2 else e3
+                             }
+      case ConstDecl(x, v1, e2) if isValue(v1) => substitute(e2, v1, x)
+      
+      case Call(v1, v2) if isValue(v1)&&isValue(v2) => v1 match{
+        case Function(Some(p), x, e3) => substitute(substitute(e3, v1, p), v2, x)
+        case Function(None, x, e3) => substitute(e3, v2, x)
+        case _ => throw new DynamicTypeError(e)
+      }
+
       /* Inductive Cases: Search Rules */
       case Print(e1) => Print(step(e1))
-      
+
         // ****** Your cases here
+      case Unary(uop, e1) => Unary(uop, step(e1))
+      
+      case Binary(bop @ (Eq | Ne) , v1, e2) if isValue(v1) => v1 match{
+        case Function(_, _, _) => throw new UnsupportedOperationException // need to throw type error
+        case _ => Binary(bop, v1, step(e2)) 
+      }
+      case Binary(bop, e1, e2) => if (isValue(e1)) Binary(bop, e1, step(e2)) else Binary(bop, step(e1), e2)
+      
+      case If(e1, e2, e3) => If(step(e1), e2, e3)
+      
+      case ConstDecl(x, e1, e2) => ConstDecl(x, step(e1), e2)
+      
+      case Call(e1, e2) => if (isValue(e1)) Call(e1, step(e2)) else Call(step(e1), e2)
       
       /* Cases that should never match. Your cases above should ensure this. */
       case Var(_) => throw new AssertionError("Gremlins: internal error, not closed expression.")
