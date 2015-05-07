@@ -1,0 +1,12 @@
+const x = 10;
+const r = (function(x: number) { return 5; })(10) + x;
+jsy.print(r);
+
+const x = 1;
+const g = function(y: number) { return x; };
+const h = function(x: number) { return g(10); };
+jsy.print(h(5));
+
+const x = 50;
+const plus = function(x: number) { return function(y: number) { return x + y; } };
+jsy.print(plus(10)(5));

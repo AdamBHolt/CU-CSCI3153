@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sbt-launch">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lab1/koans/sbt-launch.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
